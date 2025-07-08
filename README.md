@@ -11,8 +11,7 @@ A proposta é oferecer um material acessível, didático e inspirador, ajudando 
 ## 🤖 Tecnologias Utilizadas
 
 - [ChatGPT (OpenAI)](https://chat.openai.com): geração do conteúdo do ebook  
-- [Leonardo.Ai](https://leonardo.ai): criação da capa e página final do ebook  
-- [Google Gemini](https://gemini.google.com): montagem e finalização do PDF
+- [Leonardo.Ai](https://leonardo.ai): criação da capa e página final do ebook 
 
 ---
 
@@ -20,7 +19,7 @@ A proposta é oferecer um material acessível, didático e inspirador, ajudando 
 
 1. **Criação do Prompt**: Solicitei ao ChatGPT a criação de um prompt estruturado para um ebook voltado a devs iniciantes.
 2. **Design Visual**: Com o prompt pronto, utilizei o Leonardo.Ai para criar uma capa visualmente moderna e com elementos de IA e programação.
-3. **Geração do Ebook**: Reuni todo o material e, com ajuda do Gemini, colei o prompt original, anexei a imagem gerada e obtive o ebook final em PDF.
+3. **Geração do Ebook**: Reuni todo o material e, com ajuda do ChatGPT, colei o prompt original, anexei a imagem gerada e obtive o ebook final em PDF.
 
 ---
 
