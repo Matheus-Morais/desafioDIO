@@ -1,11 +1,11 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook "IA para Devs Iniciantes"
 
 ## 📒 Descrição
 Atividade da Formação de Introdução a IA da DIO.me
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
-Leonardo
+# ChatGPT
+# Leonardo
 
 ## 🧐 Processo de Criação
 Solicitei para que o ChatGPT gerasse um prompt para criar um ebook para ensinar Devs iniciantes a utilizaram IAs no seu cotidiano, após a criação criei um novo chat e colei-o. No Leonardo eu solicitei a criação de uma capa e página final para o ebook. Para finalizar juntei ao prompt para o ebook gerado e anexei a imagem gerada e mandei ao Gemini e ele me gerou o ebook.
