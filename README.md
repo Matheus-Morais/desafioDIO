@@ -1,51 +1,70 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Atividade da Formação de Introdução a IA da DIO.me
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Leonardo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei para que o ChatGPT gerasse um prompt para criar um ebook para ensinar Devs iniciantes a utilizaram IAs no seu cotidiano, após a criação criei um novo chat e colei-o. No Leonardo eu solicitei a criação de uma capa e página final para o ebook. Para finalizar juntei ao prompt para o ebook gerado e anexei a imagem gerada e mandei ao Gemini e ele me gerou o ebook.
+
+Segue os prompts gerados abaixo:
+
+Ebook:
+---
+"Crie um ebook detalhado e prático, com aproximadamente 50-70 páginas, intitulado 'IA para Devs Iniciantes: Integrando Inteligência Artificial no seu Dia a Dia de Programação.
+Público-alvo: Desenvolvedores iniciantes, estudantes de programação e profissionais de tecnologia com pouca ou nenhuma experiência prévia com Inteligência Artificial. O tom deve ser acessível, encorajador e       didático, evitando jargões excessivos e focando em exemplos práticos.
+Objetivo do Ebook: Capacitar desenvolvedores iniciantes a compreender os conceitos fundamentais de IA e a aplicar ferramentas e técnicas de IA em suas tarefas diárias de programação para aumentar a               produtividade, otimizar fluxos de trabalho e criar soluções mais inteligentes.
+Estrutura Sugerida:
+Introdução:
+O que é IA e por que é relevante para desenvolvedores hoje?
+Desmistificando a IA: não é só para cientistas de dados.
+Benefícios da IA no desenvolvimento de software (automação, otimização, etc.).
+Capítulo 1: Fundamentos da IA para Desenvolvedores
+Breve histórico da IA.
+Tipos de IA (Machine Learning, Deep Learning, Processamento de Linguagem Natural, Visão Computacional - de forma simplificada).
+Conceitos chave: dados, modelos, treinamento, inferência.
+Ferramentas e plataformas populares (mencionar algumas como TensorFlow, PyTorch, scikit-learn, APIs de IA da Google Cloud, OpenAI, etc., sem aprofundar muito em código).
+Capítulo 2: IA no Auxílio à Codificação
+Autocompletar e sugestões de código inteligentes (ex: GitHub Copilot, recursos do IDE).
+Geração de código a partir de descrições (exemplos práticos).
+Refatoração e otimização de código com IA.
+Detecção de bugs e vulnerabilidades.
+Capítulo 3: IA na Automação de Tarefas Repetitivas
+Geração de scripts e rotinas.
+Automação de testes.
+Extração de informações de documentos e logs.
+Criação de chatbots e assistentes virtuais para tarefas de desenvolvimento.
+Capítulo 4: IA na Otimização de Fluxos de Trabalho
+Organização e sumarização de documentação.
+Pesquisa inteligente de soluções e APIs.
+Geração de resumos de reuniões ou discussões técnicas.
+Auxílio na escrita de emails e comunicações técnicas.
+Capítulo 5: Projetos Simples com IA para Iniciantes
+Ideias de pequenos projetos para aplicar IA (ex: classificador de texto simples, gerador de ideias de projetos, assistente de linha de comando).
+Guia passo a passo para um projeto prático usando uma API de IA ou uma biblioteca simples.
+Capítulo 6: Considerações Éticas e Futuro da IA para Devs
+Viés em modelos de IA e como mitigar.
+Privacidade de dados.
+Onde a IA está indo e como os desenvolvedores podem se preparar.
+Conclusão:
+Recapitulação dos principais pontos.
+Recursos adicionais para aprendizado contínuo.
+Encorajamento para a experimentação.
+Requisitos Adicionais:
+Utilize uma linguagem clara, concisa e envolvente.
+Inclua exemplos de uso e cenários práticos sempre que possível.
+Sugira ferramentas e recursos relevantes para cada tópico.
+Mantenha o foco na aplicação prática da IA no dia a dia de um desenvolvedor, e não em teoria complexa de Machine Learning.
+O ebook deve ser inspirador e motivador para que os iniciantes se sintam confiantes em explorar a IA."
+---
+
+Capa:
+---
+"Capa de ebook para 'IA para Devs Iniciantes'. Design moderno, limpo e convidativo. Inclua elementos visuais abstratos que representem inteligência artificial (redes neurais, nós interconectados, brilho digital) e programação (linhas de código estilizadas, símbolos de chaves). A paleta de cores deve ser profissional e acessível, como azuis, verdes ou roxos, com alguns toques de cor vibrante. O estilo deve ser minimalista e focar na clareza. Evite imagens de robôs ou cenários futuristas complexos. Alta resolução."
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Ebook gerado na pasta raiz skksks
